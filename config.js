@@ -58,17 +58,17 @@ global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
+global.nomorown = '6283183321692'
 global.namebot = 'BotzzMee'
 global.nameown = 'ZukashikaⒸ︎'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee', true]
+  ['6283183321692'],
+  ['6283183321692'],
+  ['6283183321692'],
+  ['6283183321692', 'BotzzMee', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
